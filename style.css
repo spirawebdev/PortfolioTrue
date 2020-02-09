@@ -16,8 +16,9 @@
       color: white;
       text-align: center;
       font-size: 5em;
-      text-shadow: 2px;
+      text-shadow: 2px 2px black;
       padding-top: 1em;
+      
   }
 
   h1 {
@@ -33,7 +34,7 @@
   p {font-size: 16px;}
   .margin {margin-bottom: 45px;}
   .bg-1 { 
-    background-color: #1abc9c; /* Green */
+    background-color: #BE4B71; /* Green */
     color: #ffffff;
   }
   .bg-2 { 
@@ -63,6 +64,11 @@
   }
   .navbar-nav  li a:hover {
     color: #1abc9c !important;
+  }
+
+   img  {
+border-radius: 15em;
+border-color: red 2px;
   }
 
   
